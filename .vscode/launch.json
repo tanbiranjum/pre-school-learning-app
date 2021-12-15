@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "gui.main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "gui.main",
+            "projectName": "UserAccount_a63bc80e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "repo.Test",
+            "projectName": "UserAccount_a63bc80e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "repo.Main",
+            "projectName": "UserAccount_a63bc80e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - logInForm",
+            "request": "launch",
+            "mainClass": "testpackage.logInForm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
